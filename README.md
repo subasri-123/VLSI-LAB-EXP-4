@@ -3,10 +3,10 @@ SIMULATION AND IMPLEMENTATION OF SEQUENTIAL LOGIC CIRCUITS
 
 ## AIM:
 To simulate and synthesis SR, JK, T, D - FLIPFLOPS, COUNTERS design using vivado.
- 
 
 ## APPARATUS REQUIRED:
 vivado 2023.2
+
 ## PROCEDURE
 STEP:1 Start the vivado software, Select and Name the New project.
 STEP:2 Select the device family, device, package and speed.
@@ -17,26 +17,26 @@ STEP:6 Click the simulation to simulate the program and give the inputs and veri
 STEP:7 compare the output with truth table.
 ## LOGIC DIAGRAM
 
-SR FLIPFLOP
+## SR FLIPFLOP
 
 ![image](https://github.com/navaneethans/VLSI-LAB-EXP-4/assets/6987778/77fb7f38-5649-4778-a987-8468df9ea3c3)
 
 
-JK FLIPFLOP
+## JK FLIPFLOP
 
 ![image](https://github.com/navaneethans/VLSI-LAB-EXP-4/assets/6987778/1510e030-4ddc-42b1-88ce-d00f6f0dc7e6)
 
-T FLIPFLOP
+## T FLIPFLOP
 
 ![image](https://github.com/navaneethans/VLSI-LAB-EXP-4/assets/6987778/7a020379-efb1-4104-85ee-439d660baa08)
 
 
-D FLIPFLOP
+## D FLIPFLOP
 
 ![image](https://github.com/navaneethans/VLSI-LAB-EXP-4/assets/6987778/dda843c5-f0a0-4b51-93a2-eaa4b7fa8aa0)
 
 
-COUNTER
+## COUNTER
 
 ![image](https://github.com/navaneethans/VLSI-LAB-EXP-4/assets/6987778/a1fc5f68-aafb-49a1-93d2-779529f525fa)
 
@@ -177,7 +177,7 @@ q=d;
 end
 endmodule
 ```
-OUTPUT WAVEFORM
+## OUTPUT WAVEFORM
 ## SR FLIP FLOP
 ![Screenshot (18)](https://github.com/subasri-123/VLSI-LAB-EXP-4/assets/166198549/28bee1ab-f168-48b2-a40e-2eafe696c576)
 ## JK FLIP FLOP
